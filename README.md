@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif">
 
-- View Live Portfolio [https://fabulous-daffodil-eda997.netlify.app/](https://fabulous-daffodil-eda997.netlify.app/)
+- View Live Portfolio [https://fabulous-daffodil-eda997.netlify.app/](https:esalemportfolio.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
